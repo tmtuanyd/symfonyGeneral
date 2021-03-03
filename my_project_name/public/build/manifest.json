@@ -1,0 +1,6 @@
+{
+  "build/js/custom.js": "/build/js/custom.js",
+  "build/css/custom.css": "/build/css/custom.css",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_jquery_dist_jquery_js.js": "/build/vendors-node_modules_jquery_dist_jquery_js.js"
+}
